@@ -203,7 +203,7 @@ else:
         "Medium": "https://medium.com/@lipe97.fa",
     }
     
-    profile_pic = Image.open('data\perfil.jpg')
+    profile_pic = Image.open('perfil.jpg')
 
     # --- HERO SECTION ---
     col1, col2 = st.columns(2, gap="small")
